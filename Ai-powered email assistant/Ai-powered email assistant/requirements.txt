@@ -1,0 +1,24 @@
+# Web framework
+fastapi==0.115.0
+uvicorn==0.30.0
+
+# Environment variables
+python-dotenv==1.0.1
+
+# OpenAI client
+openai==1.52.0
+
+# Email handling
+imapclient==3.0.1
+beautifulsoup4==4.12.3
+html2text==2020.1.16
+email-validator==2.2.0
+
+# Data validation
+pydantic==2.9.0
+
+# CLI / logging
+rich==13.9.2
+
+# Testing
+pytest==8.3.3
